@@ -1,8 +1,6 @@
 #include "core.h"
 
 #include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
 
 void imprimir_boas_vindas() {
     printf("******************************************\n");
